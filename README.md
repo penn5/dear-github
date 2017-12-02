@@ -59,3 +59,12 @@ Issues haven't gotten much attention from GitHub these past few years and that w
 We'll be in touch next week. Sorry it's taken so long, and thank you for everything.
 
 —GitHub
+
+
+### Dear Github:
+
+It has definately been more than a week...
+
+However, we appreciate that a lot of work HAS been done, and that you are very busy! I believe that we, as an open source community, would very much like to see the open source site go open source! 
+
+-Me, and probably the entire open source community!
